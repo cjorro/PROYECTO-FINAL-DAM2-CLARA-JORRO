@@ -1,0 +1,20 @@
+/* BEGIN DEMO STYLE */
+    .ContieneAlbum *{margin:0;padding:0}
+	.ContieneAlbum a{color:#348;text-decoration:none;outline:none;}
+	.ContieneAlbum .a:hover{color:#67a;}
+	.ContieneAlbum .caption{font-style:italic;color:#FFC033;}
+	.ContieneAlbum .demo{position:relative;margin-top:2em;}
+	.ContieneAlbum .gallery_demo{width:490px;margin:0 auto;}
+	.ContieneAlbum .gallery_demo li{width:60px;height:40px;border:3px double #444;margin:2px;background:#000;}
+	.ContieneAlbum .gallery_demo li div{left:240px}
+	.ContieneAlbum .gallery_demo li div .caption{font:italic 0.7em/1.4 georgia,serif;}
+	
+	.ContieneAlbum #main_image{margin:0 auto 60px auto;height:260px;width:480px;}
+	.ContieneAlbum #main_image img{margin-bottom:10px;}
+	
+	.ContieneAlbum .nav{padding-top:15px;clear:both;font:80% 'helvetica neue',sans-serif;letter-spacing:3px;text-transform:uppercase;}
+	
+	.ContieneAlbum .info{text-align:left;width:700px;margin:30px auto;border-top:1px dotted #221;padding-top:30px;}
+	.ContieneAlbum .info p{margin-top:1.6em;}
+
+	

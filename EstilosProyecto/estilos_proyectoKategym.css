@@ -1,0 +1,1403 @@
+/*ESTILOS PARA EL INDEX*/
+
+    .bodyPrincipal
+     {
+            margin:10px auto;
+            color:#ffffff;
+            background-color:#000;
+            }
+
+    .pagina
+    {
+            width:1000px;
+            margin:0px auto;
+            }
+
+    .cabecera
+    {
+            background-color:#303030;
+            height:100px;
+            border:solid 1px #333333;
+            }
+
+    .menuindex
+    {
+            height:70px;
+            }
+
+    .contenido
+    {
+            height:540px;
+            }
+
+    .izquierdaConjunto
+    {
+            float:left;
+            width:280px;
+            height:inherit;
+            }
+
+    .logueador
+    {
+            float:left;
+            width:270px;
+            height:38%;
+		background-color:#303030;
+            margin-bottom:10px;
+            }
+
+    .contieneAnunCP
+    {
+            clear:both;
+            width:270px;
+            height:60.1%;
+            background-color:#222;
+            }
+
+    .muestraTodo
+    {
+            width:720px;
+            float:right;
+            height:100%;
+		background-color:#303030;
+            }
+
+    .pie
+    {
+            height:70px;
+            margin:10px 0px 0px 0px;
+            }
+
+    .limpiaContenido
+    {
+            clear:both;
+            }
+
+    .publi,.publi2
+    {
+         text-decoration:none;
+         color:#333333;
+         margin:0px;
+         padding:0px;
+    }
+
+    .publi img
+    {
+        width:495px;
+        height:65px;
+        }
+
+    .publi2 img
+    {
+        width:490px;
+        float:right;
+        height:65px;
+        }
+
+    .Validador
+    {
+        background-color:#303030;
+        height:15px;
+        margin:7px 0px 0px 0px;
+        font-size:10pt;
+        font-family:Verdana;
+        text-transform:uppercase;
+        font-weight:bold;
+        padding:5px 0px;
+        color:#c0c0c0;
+        text-align:center;
+        }
+
+ /*ESTILOS MENU*/
+
+     #menu
+    {
+        text-align:center;
+        margin:0px;
+        padding:25px;
+            }
+    #menu p
+    {
+        display:inline;
+        margin:20px 5px;
+            }
+
+    #menu a
+    {
+        text-decoration:none;
+        text-transform:uppercase;
+        color:#999999;
+        font-size:10pt;
+        padding:6px;
+        font-family:verdana;
+            }
+
+    #menu a:hover
+    {
+        background-color:#303030;
+        color:#FFFFFF;
+        outline:solid 1px #606060;
+            }
+
+/*ESTILOS CONTROL ACCESOS*/
+    .ContieneTControl
+    {
+        background-color:#222;
+        width:680px;
+        margin:auto;
+        height:85.5%;
+        }
+
+    .elijeMuestraControl
+    {
+        width:650px;
+        margin:10px auto;
+        background-color:#444;
+        color:#E0E0E0;
+        text-align:center;
+        padding:3px;
+        }
+
+    .elijeMuestraControl td
+    {
+        background-color:#666;
+        }
+
+    .muestraControl
+    {
+        width:650px;
+        margin:0px auto;
+        background-color:#444;
+        color:#E0E0E0;;
+        padding:3px;
+        }
+
+    .muestraControl th
+    {
+        background-color:#333333;
+        }
+
+    .muestraControl .colorP
+    {
+        background-color:#888888;
+        }
+
+    .muestraControl .colorI
+    {
+        background-color:#666666;
+        }
+
+    .muestraControl img
+    {
+        width:27px;
+        height:27px;
+        margin:0px auto;
+        }
+
+    .muestraControlPaginas
+    {
+        width:650px;
+        margin:10px auto;
+        background-color:#444;
+        color:#ffffff;
+        padding:3px;
+        }
+
+    .muestraControlPaginas img
+    {
+        width:40px;
+        height:30px;
+        margin:0px auto;
+        }
+
+
+    .muestraControl  tr  td
+    {
+        font-size:11.3pt;
+        }
+
+
+    /*ESTILOS REGISTRO FORMULARIO*/
+
+
+    .muestraTodo .TitulosP
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+            }
+
+    .muestraTodo .ContieneRegistro
+    {
+        background-color:#222;
+        width:680px;
+        margin:auto;
+        height:85.5%;
+        }
+
+    .muestraTodo .ContieneRegistro .YaRegistrado
+    {
+        width:500px;
+        margin:20px auto;
+        }
+
+    .muestraTodo .centraImagen
+    {
+        text-align: center;
+        }
+
+    .muestraTodo .centraImagen img
+    {
+        width:300px;
+        }
+
+    .muestraTodo .ContieneRegistro .YaRegistrado td
+    {
+        text-align:center;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        background-color:#444;
+        }
+
+    .muestraTodo .ContieneRegistro .YaRegistrado a
+    {
+        color:#FFC033;
+        }
+        
+    .tformulario
+    {
+        width:650px;
+        margin:10px auto;
+        background-color:#222;
+        }
+    .tformulario .TituloDentroForm
+    {
+        background-color:#444;
+        text-align:center;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        font-weight:bold;
+        font-style:italic;
+        }
+        
+    .tformulario p
+    {
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        }
+
+    .tformulario td        
+    {
+        background-color:#444;
+        }
+
+    .tformulario td label
+    {
+        width:100px;
+        float:left;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        }
+
+    .tformulario .fechNac
+    {
+        display:inline;
+        margin:0px 5px;
+        }
+
+    .tformulario .fechNac .nombre
+    {
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        }
+
+    .tformulario .centraBotones
+    {
+        text-align:center;
+        }
+
+    /*ESTILOS PAGINA PRINCIPAL*/
+
+    .TituloPagPrincipal
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+     .ContienePrincipal
+     {
+        background-color:#222;
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        font-style: italic;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        }
+
+     .ContienePrincipal .Estructurar
+     {
+        background-color:#444;
+        padding:4px;
+        }
+
+
+    /*ESTILOS PARA EL LOGUEADOR*/
+    .IntUsu
+    {
+        margin:5px auto 0px auto;
+        background-color:#222;
+        width:210px;
+        }
+
+    .tituloLogeador
+    {
+        text-align:center;
+        margin:10px auto 5px auto;
+        font-family:Broadway;
+        border-bottom:solid 2px #c0c0c0;
+        width:200px;
+        text-transform:uppercase;
+        }
+
+    .IntUsu .colocaLogea label
+    {
+        float:left;
+        width:76px;
+        }
+
+    .IntUsu .colocaLogea
+    {
+        background-color:#444;
+        color:#c0c0c0;
+        padding:6px 4px;
+        }
+
+    .ContieneLogueado
+    {
+        padding:5px;
+        background-color:#222;
+        width:250px;
+        margin:auto;
+        height:77%;
+        }
+
+    .tituloLogeado
+    {
+        text-align:center;
+        margin:5px auto;
+        font-family:Impact;
+        border-bottom:solid 2px #c0c0c0;
+        width:250px;
+        text-transform:uppercase;
+        }
+
+    .ContieneLogueado .TablLogueado
+    {
+        margin:auto;
+        width:150px;
+        text-align:center;
+        }
+
+    .ContieneLogueado .TablLogueado td
+    {
+        background-color:#444;
+        }
+    /*ESTILOS HORARIO*/
+
+    .TituloHorario
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+    .contieneHorario
+    {
+        background-color:#222;
+        width:680px;
+        margin:auto;
+        }
+
+    .contieneHorario table
+    {
+        width:680px;
+        margin:auto;
+        padding:10px;
+        }
+
+    .contieneHorario table th
+    {
+        color:#c0c0c0;
+        }
+
+    .contieneHorario table td, .contieneHorario table th
+    {
+        background-color:#444;
+        }
+
+    .contieneHorario table td
+    {
+        width:127px;
+        text-align: center;
+        }
+
+    .contieneHorario .hora
+    {
+        text-align:center;
+        font-weight:bold;
+        font-style:italic;
+        color:#c0c0c0;
+        width:45px;
+        }
+
+    .contieneHorario .TiposActividades
+    {
+        font-size:8pt;
+        text-align:center;
+        }
+
+    .contieneHorario .TiposActividades span
+    {
+        padding:0px 3px;
+        }
+
+    .titSubHorario
+    {
+        text-align:center;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        font-weight: bold;
+        font-style:italic;
+        }
+
+    .CopCardioVas
+    {
+        color:#D5D248;
+        }
+
+    .bodyMind
+    {
+        color:#da63cd;
+        }
+
+    .Toni
+    {
+        color:#d38c11;
+        }
+
+    .GastCal
+    {
+        color:#7cb600;
+        }
+
+    .Coreo
+    {
+        color:#1FC5B7;
+        }
+
+    /*ESTILOS ACTIVIDADES*/
+
+    .TituloActividades
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+    .ContieneIframe
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        }
+
+    .contieneActividades
+    {
+        width:650px;
+        border:none;
+        height:100%;
+        }
+
+    .tablaActividades
+    {
+        width:610px;
+        }
+
+    .tablaActividades td, .tablaActividades th
+    {
+        background-color:#444;
+        }
+
+    .tablaActividades .TituloTipo
+    {
+        text-align:center;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        font-weight:bold;
+        font-style:italic;
+        text-transform:uppercase;
+        }
+
+    .tablaActividades .TituloActividad
+    {
+        color:#BFF;
+        height:5%;
+        text-align:center;
+        text-transform:uppercase;
+        font-size:11pt;
+        font-family:'Cooper Black';
+        }
+
+    .tablaActividades .InfAct
+    {
+        color:#c0c0c0;
+        font-family:verdana;
+        font-size:10pt;
+        }
+
+    /*ESTILOS TARIGAS Y PRECIOS*/
+
+    .TituloPrecios
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+    .ContienePrecios .izq
+    {
+        text-align:left;
+        }
+
+    .ContienePrecios
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        text-align: center;
+        }
+    .ContienePrecios .euro
+    {
+        font-weight: bold;
+        }
+
+    .ContienePrecios .SubtitPrecio
+    {
+        font-family:Arial;
+        font-size:9pt;
+        width:215px;
+        color:#E0E0E0;
+        }
+
+    .ContienePrecios .precio
+    {
+        width:215px;
+        }
+
+    .ContienePrecios table th
+    {
+        background-color:#111;
+        text-align:center;
+        font-family:verdana;
+        font-size:11pt;
+        color:#c0c0c0;
+        font-weight:bold;
+        font-style:italic;
+        }
+    .ContienePrecios table td
+    {
+        font-size:9.35pt;
+        background-color:#444;
+        color:#c0c0c0;
+        font-family: Verdana;
+        }
+
+    /*ESTILOS CONTACTO*/
+
+    .TituloContacto
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+    .ContineContacto
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        }
+
+   .ContineContacto .Contacto td
+   {
+        background-color:#444;
+        font-family:verdana;
+        font-size:10pt;
+        color:#c0c0c0;
+        }
+
+
+   .ContineContacto .Contacto .titContact
+   {
+        color:#FFC033;
+        text-transform:uppercase;
+        font-weight: bold;
+        font-style:italic;
+        }
+
+   .ContineContacto .Contacto .vacia
+   {
+        height:140px;
+        background-color:#222;
+        }
+
+
+    /*ESTILOS ALBUM DE FOTOS*/
+
+    .TituloAlbum
+    {
+        text-transform:uppercase;
+        width:680px;
+        margin:20px auto 10px auto;
+        padding-bottom:5px;
+        border-bottom:solid 2px #c0c0c0;
+        text-align:center;
+        font-family:impact;
+        font-size:16pt;
+        }
+
+    .ContieneAlbum
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        text-align:center;
+        font:80%/140% georgia,serif;
+        }
+
+   /*ESTILOS DE TU CUENTA*/
+
+    .ContienePanelContr
+    {
+        height:100%;
+        padding:1px;
+        }
+
+    .ContienePanelContr .nombrePanel
+    {
+        text-align:center;
+        margin:5px auto ;
+        font-family:Impact;
+        border-bottom:solid 2px #c0c0c0;
+        width:250px;
+        text-transform:uppercase;
+        }
+
+    .ContieneOpcionesPanel
+    {
+        width:250px;
+        background-color:#222;
+        margin:5px auto;
+        padding:5px;
+        }
+
+    .ContieneOpcionesPanel .TablaPanelControl
+    {
+        width:210px;
+        margin:auto;
+        text-align:center;
+        }
+
+   .ContieneOpcionesPanel .TablaPanelControl .OPCont
+   {
+        display:block;
+        text-decoration:none;
+        background-color:#444;
+        margin:6px auto;
+        padding:4px;
+        text-transform:uppercase;
+        font-weight: bold;
+        color:#FFC033;
+        font-style:italic;
+        font-size:11pt;
+
+        }
+
+   .ContieneOpcionesPanel .TablaPanelControl .OPCont:hover
+   {
+        color:#000;
+        background-color:#c0c0c0;
+        }
+
+  /*ESTILOS MODIFICAR DATOS*/
+
+    .ContModDatos
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        }
+
+    .ContModDatos .TitModUs
+    {
+        margin:0px auto 10px auto;
+        width:435px;
+        font-family:Verdana;
+        text-transform:uppercase;
+        border-bottom:solid 2px #c0c0c0;
+        font-size:9pt;
+        padding:0px 0px 2px 0px;
+        text-align:center;
+        }
+
+    .ContModDatos .TabDatPer
+    {
+        width:450px;
+        margin:auto;
+        }
+
+    .ContModDatos .TabDatPer td
+    {
+        background-color:#444;
+        color:#DDD;
+        }
+
+    .ContModDatos .TabDatPer .Anchura
+    {
+        width:150px;
+        }
+
+    .ContModDatos .TabDatPer .ModifDatos
+    {
+        font-size:11pt;
+        font-family:verdana;
+        }
+
+    .ContModDatos .TabDatPer .ModifDatos a
+    {
+        color:#ffc000;
+        }
+
+    .ContModDatos .TabDatPer .ModifDatos a:hover
+    {
+        color:#FF88FF;
+        }
+
+
+    .ContModDatos .TabDatPer .fechNac
+    {
+        display:inline;
+        }
+
+   .ContModDatos .TabDatPer .BotModificar
+   {
+       border:none;
+       border-bottom:solid 1px #FFC000;
+       background-color:#444;
+       color:#FFC000;
+       font-size:11pt;
+       width:35px;          
+       }
+
+   .ContModDatos .TabDatPer .BotModificar:hover
+   {
+        color:#FF88FF;
+        border-bottom:solid 1px #FF88FF;
+        cursor:pointer;
+        }
+
+   .ContModDatos .TabDatPer .ErrNick
+   {
+       background-color:#222;
+       height:1%;
+       color:#FF3333;
+       text-align:center;
+       text-transform:uppercase;
+        }
+
+
+   .ContModDatos .MensModYes .TablaMensModYes
+   {
+        width:550px;
+        text-align:center;
+        margin:30px auto;
+        }
+
+   .ContModDatos .MensModYes .TablaMensModYes td
+   {
+       background-color:#444;
+       font-size:11pt;
+       font-family:verdana;
+        }
+
+    /*ESTILOS MODIFICAR CONTRASEÑA*/
+
+    .ContModDatos .TitModPass
+    {
+        margin:0px auto 10px auto;
+        width:435px;
+        font-family:Verdana;
+        text-transform:uppercase;
+        border-bottom:solid 2px #c0c0c0;
+        font-size:9pt;
+        padding:0px 0px 2px 0px;
+        text-align:center;
+        }
+        
+    .ContModDatos .TabModPass
+    {
+        width:370px;
+        margin:20px auto;
+        text-align:center;
+        font-size:11pt;
+        font-family:verdana;
+        }
+
+    .ContModDatos .TabModPass td
+    {
+        background-color:#444;
+        }
+
+    .TabModPass label
+    {
+        margin:0px auto 7px auto;
+        border-bottom:solid 1px #C0C0C0;
+        display:block;
+        width:230px;
+        font-family:Verdana;
+        font-size:10pt;
+        }
+        
+    .ContModDatos .TabModPass .ModifPaswd
+    {
+        font-size:11pt;
+        font-family:verdana;
+        }
+
+   .ContModDatos .TabModPass .BotModificar
+   {
+       border:none;
+       border-bottom:solid 1px #FFC000;
+       background-color:#444;
+       color:#FFC000;
+       font-size:11pt;
+       width:35px;
+       }
+
+   .ContModDatos .TabModPass .BotModificar:hover
+   {
+        color:#FF88FF;
+        border-bottom:solid 1px #FF88FF;
+        cursor:pointer;
+        }
+
+   .ContModDatos .TabModPass .ErrPass
+   {
+       background-color:#222;
+       height:1%;
+       color:#FF3333;
+       text-align:center;
+       text-transform:uppercase;
+        }
+
+
+    /*ESTILOS PARA TODOS LOS BOTONES*/
+/*
+    input[type="submit"],input[type="reset"]
+    {
+        border:outset 2px #FFC000;
+        background-color:#DDD;
+        color:#000;
+        }
+
+    input[type="submit"]:active,input[type="reset"]:active
+    {
+        border:inset 2px #FFC000;
+        background-color:#DDD;
+        color:#000;
+        }
+
+    input[type="submit"]:hover,input[type="reset"]:hover
+    {
+        cursor:pointer;
+        color:#EEE;
+        background-color:#AAA;
+        }
+*/
+
+    /* ESTILOS GESTIONAR ACTIVIDADES USUARIO*/
+
+    .ContActUser
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        }
+
+    .ContActUser .TitActUser
+    {
+        background-color:#222;
+        margin:0px auto 5px auto;
+        width:535px;
+        font-family:Verdana;
+        text-transform:uppercase;
+        border-bottom:solid 2px #c0c0c0;
+        font-size:9pt;
+        padding:0px 0px 2px 0px;
+        text-align:center;
+        }
+
+    .ContActUser .TabActUser
+    {
+        width:550px;
+        margin:auto;
+        font-size:11pt;
+        }
+
+    .ContActUser .TabActUser td
+    {
+        background-color:#444;
+        color:#DDD;
+        }
+
+    .ContActUser .TabActUser .elijeActiv
+    {
+        color:#FFF;
+        font-family:Verdana;
+        }
+
+    .ContActUser .TabActApUser
+    {
+        font-size:11pt;
+        margin:0px auto;
+        width:550px;
+        color:#fff;
+        }
+
+    .ContActUser .TabActApUser td
+    {
+        background-color:#444;
+        color:#DDD;
+        }
+
+
+   /*PROGRESOS FISICOS USUARIO*/
+
+   .ContActUser .MensajeProgActUs
+   {
+       background-color:#444;
+       padding:5px;
+       font-family:Verdana;
+       font-size:11pt;
+       text-align: center;
+        }
+
+   .ContActUser  .TableMuestraPG
+   {
+        width:550px;
+        margin:10px auto 20px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContActUser .TableMuestraPG th
+   {
+        background-color:#333;
+        color:#FFC033;
+        font-style:italic;
+        font-size:10pt;
+        }
+
+   .ContActUser .TableMuestraPG td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .TableMuestraPGUs
+   {
+        width:350px;
+        margin:10px auto 20px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+
+        }
+
+   .ContActUser .TableMuestraPGUs th
+   {
+        background-color:#333;
+        color:#FFC033;
+        font-style:italic;
+        font-size:10pt;
+        text-align: left;
+        padding-left:30px;
+        }
+
+   .ContActUser .TableMuestraPGUs td
+   {
+        background-color:#444;
+        }
+
+  /*ACTIVIDADES MONITOR*/
+
+   .ContActUser .TablaActividadesMonitor
+   {
+        width:350px;
+        margin:10px auto 20px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        }
+
+   .ContActUser .TablaActividadesMonitor th
+   {
+        background-color:#333;
+        color:#FFC033;
+        font-style:italic;
+        font-size:11pt;
+        margin-bottom:30px;
+        text-align:center;
+        }
+
+   .ContActUser .TablaActividadesMonitor td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .TablaNuevaActividad
+   {
+        width:545px;
+        margin:10px auto 20px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContActUser .TablaNuevaActividad td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .TablaNuevaActividad a
+   {
+       border:none;
+       border-bottom:solid 1px #FFC000;
+       background-color:#444;
+       color:#FFC000;
+       font-size:11pt;
+       width:35px;
+       }
+
+   .ContActUser .TablaNuevaActividad a:hover
+   {
+        color:#FF88FF;
+        border-bottom:solid 1px #FF88FF;
+        cursor:pointer;
+        }
+
+     /*ALMACENAR NUEVA ACTIVIDAD*/
+
+   .ContActUser .TablaNuevaActiv
+   {
+        width:545px;
+        margin:10px auto 20px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContActUser .TablaNuevaActiv td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .TablaNuevaActiv select
+   {
+       text-align:center;
+        }
+
+
+    /*GESTIONAR PROGRESOS FISICOS MONITOR*/
+
+   .ContActUser .TablaIntroUser
+   {
+        width:450px;
+        margin:10px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;       
+        }
+
+   .ContActUser .TablaIntroUser th
+   {
+        background-color:#333;
+        color:#FFC033;
+        font-style:italic;
+        font-size:11pt;
+        margin-bottom:30px;
+        text-align:left;
+        padding-left:30px;
+        }
+
+   .ContActUser .TablaIntroUser input[type="text"]
+   {
+       text-align:center;
+        }
+
+   .ContActUser .TablaIntroUser td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .TableErrorMDPG
+   {
+        width:450px;
+        margin:10px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContActUser .TableErrorMDPG strong
+   {
+      color:#FFC033;
+        }
+
+   .ContActUser .TableErrorMDPG td
+   {
+        background-color:#444;
+        }
+
+   .ContActUser .MensajeModOK
+   {
+        background-color:#444;
+        font-size:15px;
+        color:#FFF;
+        font-family:Verdana;
+        padding:5px;
+        text-align:center;
+        }
+
+   .ContActUser .MensajeModOK a
+   {
+       border:none;
+       border-bottom:solid 1px #FFC000;
+       background-color:#444;
+       color:#FFC000;
+       font-size:11pt;
+       width:35px;
+       }
+
+   .ContActUser .MensajeModOK a:hover
+   {
+        color:#FF88FF;
+        border-bottom:solid 1px #FF88FF;
+        cursor:pointer;
+        }
+
+   /*ESTILOS GESTION ADMINISTRADOR*/
+
+    .ContGestAdmin
+    {
+        width:650px;
+        padding:15px;
+        margin:5px auto;
+        height:80.8%;
+        background-color:#222;
+        }
+
+    .ContGestAdmin .TitGestAdmin
+    {
+        background-color:#222;
+        margin:0px auto 5px auto;
+        width:535px;
+        font-family:Verdana;
+        text-transform:uppercase;
+        border-bottom:solid 2px #c0c0c0;
+        font-size:9pt;
+        padding:0px 0px 2px 0px;
+        text-align:center;
+        }
+
+    .ContGestAdmin .TablaMuestraUsuariosGym
+    {
+        width:550px;
+        margin:10px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContGestAdmin .TablaMuestraUsuariosGym th
+   {
+        background-color:#333;
+        color:#FFC033;
+        font-style:italic;
+        font-size:10pt;
+        text-align:center;
+        text-transform: uppercase;
+        }
+
+   .ContGestAdmin .TablaMuestraUsuariosGym td
+   {
+        background-color:#444;
+        }
+
+   .ContGestAdmin .ModUserAdmin
+   {
+        width:550px;
+        margin:10px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align: center;
+        }
+
+   .ContGestAdmin .ModUserAdmin  td
+   {
+       background-color:#444;
+        }
+
+   .ContGestAdmin  .TabDatPer
+   {
+        width:450px;
+        margin:5px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;       
+        }
+
+   .ContGestAdmin  .TabDatPer td
+   {
+       background-color:#444;
+        }
+
+   .ContGestAdmin  .TabDatPer .fechNac
+    {
+        display:inline;
+        }
+
+   .ContGestAdmin .TabDatPer .ErrNick
+   {
+       background-color:#222;
+       height:1%;
+       color:#FF3333;
+       text-align:center;
+       text-transform:uppercase;
+        }
+
+   .ContGestAdmin .TablaNuevaActividad
+   {
+        width:450px;
+        margin:5px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        text-align:center;
+        }
+
+   .ContGestAdmin .TablaNuevaActividad td
+   {
+       background-color:#444;
+        }
+
+   .ContGestAdmin .TablaNuevaActividad a
+   {
+       border:none;
+       border-bottom:solid 1px #FFC000;
+       background-color:#444;
+       color:#FFC000;
+       font-size:11pt;
+       width:35px;
+       }
+
+   .ContGestAdmin .TablaNuevaActividad a:hover
+   {
+        color:#FF88FF;
+        border-bottom:solid 1px #FF88FF;
+        cursor:pointer;
+        }
+
+   .ContGestAdmin .TablaNuevoMonitor
+   {
+        width:540px;
+        margin:5px auto 0px auto;
+        font-size:11pt;
+        color:#FFF;
+        font-family:Verdana;
+        }
+
+   .ContGestAdmin .TablaNuevoMonitor  .fechNac   
+   {
+       display:inline;
+        }
+
+   .ContGestAdmin .TablaNuevoMonitor td
+   {
+       background-color:#444;
+        }
+
+   /*MENSAJE QUE APARECE PARA EL USUARIO QUE NO HA PAGADO LA CUOTA DEL GYMNASIO*/
+
+   .UsuarioNoPagado
+   {
+       background-color:#444;
+       padding:5px;
+       font-family: Verdana;
+       font-size:11pt;
+       text-align: center;
+        }
